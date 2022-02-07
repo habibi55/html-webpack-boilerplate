@@ -23,7 +23,7 @@
 
   .overlay .video {
     @apply absolute transform bg-luxspace-sekunder bg-no-repeat bg-center rounded-full
-    flex items-center justify-center -translate-x-1/2 -translate-y-1/2;
+    flex items-center justify-center;
     background-image: url("../images/design/icon-play.svg");
     top: 50%;
     left: 50%;
